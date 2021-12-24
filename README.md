@@ -6,7 +6,11 @@ This method can quickly perform robot simulations that require a lot of computat
 This repository can be used for robot dynamics learning.
 
 The folder structure is as follows.
+
 └ c++: a project that creates a DLL file.
+
 └ matlab: Panda robot model in MATLAB with Runge-Kutta method.
+
 └ python: panda robot simulation via DLL file
+
   └ dll_test.py: panda robot simulation via DLL file (implemented with simple pid control)
