@@ -1,1 +1,1 @@
-# -franka-emika-panda-python-simulation
+# franka-emika-panda-python-simulation
